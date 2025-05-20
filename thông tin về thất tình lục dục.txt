@@ -1,0 +1,17 @@
+THẤT TÌNH LỤC DỤC – 13 CẢM XÚC / DỤC VỌNG + 13 MÀU CƠ BẢN
+
+STT   | LOẠI      | TÊN GỌI       | Ý NGHĨA ĐƠN GIẢN             | MÀU TƯỢNG TRƯNG
+------|-----------|---------------|------------------------------|----------------
+01    | Thất Tình | HỈ (Vui)      | Niềm vui, hạnh phúc          | VÀNG
+02    | Thất Tình | NỘ (Giận)     | Giận dữ, thịnh nộ            | ĐỎ
+03    | Thất Tình | ÁI (Yêu)      | Tình yêu, si mê              | HỒNG
+04    | Thất Tình | Ố (Ghét)      | Chán ghét, căm hờn           | ĐEN
+05    | Thất Tình | BI (Buồn)     | Nỗi buồn, sầu thảm           | TRẮNG
+06    | Thất Tình | KINH (Sợ)     | Sợ hãi, kinh hoàng           | TÍM
+07    | Thất Tình | THAM (Muốn)   | Tham lam, muốn chiếm hữu     | CAM
+08    | Lục Dục   | SẮC (Sắc dục) | Mê sắc đẹp, vẻ ngoài         | XANH DƯƠNG
+09    | Lục Dục   | THINH (Âm)    | Mê tiếng hay, âm nhạc        | XANH LÁ
+10    | Lục Dục   | HƯƠNG (Mùi)   | Mê hương thơm, nước hoa      | XÁM
+11    | Lục Dục   | VỊ (Vị giác)  | Mê ăn ngon, vị lạ            | NÂU
+12    | Lục Dục   | XÚC (Chạm)    | Thèm tiếp xúc thể xác        | XANH LAM
+13    | Lục Dục   | PHÁP (Ý niệm) | Mê quyền lực, tri thức       | XANH NGỌC
